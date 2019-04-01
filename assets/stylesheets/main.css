@@ -356,5 +356,17 @@ p a {
   letter-spacing: .5px;
   text-transform: uppercase;
 }
-
-  
+/*
+  ========================================
+  Venue
+  ========================================
+*/
+.venue-theatre {
+  margin-bottom: 66px;
+}
+.venue-hotel {
+  margin-bottOm: 22px;
+}
+.venue-map {
+  height: 264px;
+}
